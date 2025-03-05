@@ -1,0 +1,25 @@
+
+package need to install :
+
+strealit 
+numpy
+panda 
+scikit learn
+python 
+in the system command prompt or jupternotebook and anaconda environment ..
+
+
+package:
+import os
+import streamlit as st
+import pickle
+from streamlit_option_menu import option_menu
+
+
+
+
+It directory could be change according to your file loction to rum stremlit run command 
+ 
+streamlit run "D:\project data\Medical diagnosis using AI\app.py"
+
+
