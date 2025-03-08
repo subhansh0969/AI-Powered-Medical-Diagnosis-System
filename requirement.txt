@@ -1,0 +1,8 @@
+requirement for system :
+python:==3.0
+matplotlib ==3.10.1
+numpy==2.2.3
+pandas==2.2.3
+Scikit_learn==1.6.1
+seaborn==0.13.2
+streamlit==1.42.1
